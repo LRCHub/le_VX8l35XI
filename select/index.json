@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "CLIK CLAK",
+  "base_artist": "BABYMONSTER",
+  "createdAt": "2025-12-20T07:32:20.213432Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Clik Clak",
+      "artist": "Skytech feat. DNF & Sary",
+      "has_synced": false,
+      "path": "select/01_Clik_Clak_Skytech_feat._DNF_&_Sary.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Clik Clak",
+      "artist": "Skytech/DNF/Sary",
+      "has_synced": false,
+      "path": "select/02_Clik_Clak_Skytech_DNF_Sary.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Clik, Clak, and Spray",
+      "artist": "PackFM",
+      "has_synced": false,
+      "path": "select/03_Clik,_Clak,_and_Spray_PackFM.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Clik Clak",
+      "artist": "Skytech",
+      "has_synced": true,
+      "path": "select/04_Clik_Clak_Skytech.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "CLIK CLAK",
+      "artist": "BABYMONSTER",
+      "has_synced": true,
+      "path": "select/05_CLIK_CLAK_BABYMONSTER.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "CLIK CLAK",
+      "artist": "BABYMONSTER",
+      "has_synced": true,
+      "path": "select/06_CLIK_CLAK_BABYMONSTER.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Clik, Clak & Spray",
+      "artist": "PackFM",
+      "has_synced": true,
+      "path": "select/07_Clik,_Clak_&_Spray_PackFM.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "CLIK CLAK",
+      "artist": "BABYMONSTER",
+      "has_synced": true,
+      "path": "select/08_CLIK_CLAK_BABYMONSTER.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "CLIK CLAK",
+      "artist": "베이비몬스터 (BabyMonster)",
+      "has_synced": true,
+      "path": "select/09_CLIK_CLAK_베이비몬스터_(BabyMonster).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "CLIK CLAK - Live Version",
+      "artist": "BABYMONSTER",
+      "has_synced": true,
+      "path": "select/10_CLIK_CLAK_-_Live_Version_BABYMONSTER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CLIK CLAK",
+      "artist": "BABYMONSTER",
+      "has_synced": false,
+      "path": "select/pl_01_CLIK_CLAK_BABYMONSTER.txt"
+    }
+  ]
+}
